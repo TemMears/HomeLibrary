@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="п2.Control">
+    <Position X="13" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAQAAACAoGQQAQAgAQCABAICAgDAAEAAIAAAICBFIEA=</HashCode>
+      <FileName>Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.AddNewBook">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAABACAggAQAABDECCACIAAABAAIVAAAAQAAgAE=</HashCode>
+      <FileName>AddNewBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.ForgotPasswordForm">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAACAAABEAAAiAAAACAgAABAAABAQBAgQEEAA=</HashCode>
+      <FileName>ForgotPasswordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.Form_registration">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAACUAABAIABCAEQBCAAAABEAAAAAQAgAAEAA=</HashCode>
+      <FileName>Form_registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.HomeLibrery">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LAQAJEABFCABBEIgABCBTAInAIAAEEmRDBAAmKcAUgA=</HashCode>
+      <FileName>HomeLibrery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.ChangePass">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEAAACAAAAEAAAiIQBACAgAAJABABAQBAAAEEAA=</HashCode>
+      <FileName>ChangePass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.Author">
+    <Position X="27.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAACAAEBAAABCEAAAGACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.ChangeCategory">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACBAAFAACACEEAACABAABECAAABAAAAAAAA=</HashCode>
+      <FileName>ChangeCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.DeleteAuthor">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQQAAQAAQCIAAAAACAKAAAACAAAAAgQAAAABAAIAAAA=</HashCode>
+      <FileName>DeleteAuthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="п2.ShowBooksByAuthor">
+    <Position X="24.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQAAQAAQCIAAAAACACAAAACQAAAAgQAAAABAAIAAAA=</HashCode>
+      <FileName>ShowBooksByAuthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
